@@ -1,3 +1,6 @@
+#Instalar e importar as bibliotecas
+    #pip install pyautogui 
+
 import pyautogui
 import time
 
@@ -34,6 +37,8 @@ pyautogui.press("tab")
 
 pyautogui.press("enter")
 
+#instalar o pandas
+    #pip install pandas numpy openpyxl
 #3- Importar a bd
 import pandas as pd
 
